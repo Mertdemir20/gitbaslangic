@@ -1,0 +1,2 @@
+# gitbaslangic
+baslangic
